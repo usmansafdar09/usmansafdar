@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Deep Learning | Computer Vision | Data Analysis - Power BI</p>
+<p align="left">Deep Learning | Computer Vision | Data Analytics - Power BI</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨I am a passionate and self-motivated AI enthusiast with a strong interest in deep learning, computer vision, and data analysis.<br>📚 I'm currently learning Computer Vision for Medical Imaging.</p>
+<p align="left">✨I am a passionate and self-motivated AI enthusiast with a strong interest in deep learning, computer vision, and data analysis.<br>📚 I'm currently learning Deep Learning for Medical Imaging | Data Analytics(Tools & Techniques).</p>
 
 ###
 
